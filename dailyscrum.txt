@@ -9,3 +9,5 @@ Done: create git
 Wei
 
 To do:  Work on project specification, add tasks to trello, do more research on project
+
+Done: join git
