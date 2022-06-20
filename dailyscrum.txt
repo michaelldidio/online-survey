@@ -17,12 +17,36 @@ June 19th
 
 Michael
 
-To Do:
+To Do: Work on CRUD
 
-Done:
+Done: Project specification, add trello tasks, research on project
+
+Questions: Talk to professor about project specification
 
 Wei
 
-To Do:
+To Do: Work on database
 
-Done:
+Done: Project specification, add trello tasks, research on project
+
+Questions: Talk to professor about project specification
+
+
+
+June 20th
+
+Michael
+
+To Do: 
+
+Done: 
+
+Questions: 
+
+Wei
+
+To Do: 
+
+Done: 
+
+Questions:
