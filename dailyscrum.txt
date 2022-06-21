@@ -45,8 +45,8 @@ Questions:
 
 Wei
 
-To Do: 
+To Do: Create tables and fields in database.
 
-Done: 
+Done: Set database in RDS of AWS and connect it from MySQL Workbench.
 
 Questions:
