@@ -50,3 +50,22 @@ To Do: Create tables and fields in database.
 Done: Set database in RDS of AWS and connect it from MySQL Workbench.
 
 Questions:
+
+
+June 21st
+
+Michael
+
+To Do: 
+
+Done: 
+
+Questions: 
+
+Wei
+
+To Do: Create tables and fields in database.
+
+Done: Set database in RDS of AWS and connect it from MySQL Workbench.
+
+Questions:
