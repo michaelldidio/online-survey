@@ -76,7 +76,7 @@ June 22nd
 
 Michael
 
-To Do: Mid-project review with professor
+To Do: Mid-project review with professor, merge front-end with back-end
 
 Done: front-end visuals
 
@@ -84,7 +84,7 @@ Questions:
 
 Wei
 
-To Do: Mid-project review with professor
+To Do: Mid-project review with professor, merge front-end with back-end
 
 Done: database
 
