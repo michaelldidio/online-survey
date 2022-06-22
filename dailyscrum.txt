@@ -78,7 +78,7 @@ Michael
 
 To Do: Mid-project review with professor
 
-Done:
+Done: front-end visuals
 
 Questions: 
 
@@ -86,6 +86,6 @@ Wei
 
 To Do: Mid-project review with professor
 
-Done:
+Done: database
 
 Questions:
