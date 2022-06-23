@@ -93,4 +93,34 @@ Done: database
 Questions: There is an error when set datatype ENUM in 'qtype' field. I change ENUM to VC.
 
 
+June 23rd
+
+Michael
+
+To Do: Review code, implement additional functionality, cloud hosting
+
+Done: front-end visuals
+
+Questions: 
+
+Module Error (from ./node_modules/sass-loader/dist/cjs.js):
+Node Sass does not yet support your current environment: Windows 64-bit with Unsupported runtime (93)
+For more information on which environments are supported please see:
+https://github.com/sass/node-sass/releases/tag/v4.14.1
+
+Wei
+
+To Do: set up cloud functionality
+
+Done: database
+
+Questions:
+
+Module build failed (from ./node_modules/postcss-loader/dist/cjs.js):
+TypeError: Cannot read properties of undefined (reading 'toString')
+
+
+
+
+
 
