@@ -13,6 +13,7 @@ To do:  Work on project specification, add tasks to trello, do more research on 
 Done: join git
 
 
+
 June 19th
 
 Michael
@@ -41,7 +42,6 @@ To Do: Work on routes
 
 Done: Login and registration
 
-
 Questions: 
 
 Wei
@@ -50,7 +50,8 @@ To Do: Create tables and fields in database.
 
 Done: Set database in RDS of AWS and connect it from MySQL Workbench.
 
-Questions:
+Questions: 
+
 
 
 June 21st
@@ -72,6 +73,7 @@ Done: Set database in RDS of AWS and connect it from MySQL Workbench.
 Questions:
 
 
+
 June 22nd
 
 Michael
@@ -88,4 +90,7 @@ To Do: Mid-project review with professor, merge front-end with back-end
 
 Done: database
 
-Questions:
+Questions: There is an error when set datatype ENUM in 'qtype' field. I change ENUM to VC.
+
+
+
