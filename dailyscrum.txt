@@ -120,6 +120,26 @@ Module build failed (from ./node_modules/postcss-loader/dist/cjs.js):
 TypeError: Cannot read properties of undefined (reading 'toString')
 
 
+June 25th
+
+Michael
+
+To Do: Work on powerpoint presentation
+
+Done: backend
+
+Questions: continue working on fixing code, making project functional
+
+
+Wei
+
+To Do: Work on powerpoint presentation
+
+Done: frontend
+
+Questions: continue working on fixing code, making project functional
+
+
 
 
 
